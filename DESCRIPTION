@@ -1,6 +1,6 @@
 Package: nestr
 Title: Build Nesting or Hierarchical Structures
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     person(given = "Emi",
            family = "Tanaka",
@@ -11,14 +11,13 @@ Description: Facilitates building a nesting or hierarchical structure as a list 
 License: MIT + file LICENSE
 Encoding: UTF-8
 Language: en-US
-LazyData: true
 RoxygenNote: 7.1.1
 Imports: magrittr, rlang, vctrs, tidyselect
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2021-03-14 00:45:22 UTC; etan0038
+Packaged: 2022-02-01 06:57:17 UTC; etan0038
 Author: Emi Tanaka [aut, cre, cph] (<https://orcid.org/0000-0002-1455-259X>)
 Maintainer: Emi Tanaka <dr.emi.tanaka@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-03-16 08:50:12 UTC
+Date/Publication: 2022-02-01 21:20:02 UTC
